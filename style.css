@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Sansation";
+    src:url("content/fonts/Sansation_Light.ttf");
+}
+#title{
+    padding: 200px 0;
+    font-family: Sansation, Helvetica, Arial, sans-serif;
+    font-size: 200px;
+    font-weight: lighter;
+    text-align: center;
+    text-shadow: 0 0 25px darkblue, 1px 1px 5px black;
+    color: white;
+}
+
+html{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
