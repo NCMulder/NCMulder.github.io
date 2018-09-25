@@ -2,8 +2,8 @@ theme: jekyll-theme-minimal
 repository: NCMulder/NCMulder.github.io
 
 title: Niels Mulder
-description: Some place to list the things I've worked on
+description: A place to list the things I've worked on
 author: Nielsch
-logo: assets/images/logo.png
+logo: assets/images/me.jpg
 google_analytics: UA-119605097-1
 permalink: pretty
