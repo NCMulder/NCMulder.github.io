@@ -4,7 +4,7 @@ in_sidebar: true
 ---
 # Contact
 
-For any questions, comments or suggestions, you can reach me at [n.c.mulder [at] students.uu.nl](mailto:n.c.mulder@students.uu.nl?Subject:GitHub Personal Page).
+For any questions, comments or suggestions, you can reach me at [nc.mulder [at] outlook.com](mailto:nc.mulder@outlook.com?Subject:ncmulder.me).
 
 Or you can fill in the form below!
 
